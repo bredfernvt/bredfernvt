@@ -1,0 +1,9 @@
+{
+	"name": "verifytoday-datafactory",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dce16c99-ca83-40a1-928d-0166006bb7c4",
+		"tenantId": "e9fc4358-5449-4345-9f47-ab387ab084fe"
+	}
+}
